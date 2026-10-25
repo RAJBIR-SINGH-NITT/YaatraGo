@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YaatraGo Frontend
 
 YaatraGo is a mobile-first journey safety and emergency-assistance frontend. Its product promise is simple: plan a journey, keep it in view while travelling, and confirm that you reached safely.
@@ -137,3 +138,6 @@ No backend functional calls could be executed because no backend or verified rou
 ### Known backend gaps
 
 See `BACKEND_GAPS.md` for the complete list. The blockers are authentication, health/CORS contract, journey CRUD, contact consent CRUD, arrival/grace-period state, SOS/status/location persistence, notification outcomes, schedule CRUD/execution, assistant schema, profile persistence, and any real-time/device capabilities.
+=======
+# YaatraGo
+>>>>>>> 9c95628495f90f3c404bd3dac5a1ec5b7a181d00
