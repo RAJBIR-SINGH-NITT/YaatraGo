@@ -1,0 +1,12 @@
+{
+  "name": "YaatraGo",
+  "short_name": "YaatraGo",
+  "description": "A trusted travel companion that helps you plan your journey, stay connected, and confirm that you arrived safely.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F2FAF4",
+  "theme_color": "#15803D",
+  "icons": [
+    { "src": "/icons/yaatrago-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
